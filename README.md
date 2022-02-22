@@ -5,7 +5,7 @@
 
 <h2>Hobbies</h2>
 <ul>
-  <li>In my free time, I like playing video games and watch animes
+  <li>In my free time I like playing video games and watch animes
   <li> Chrono Trigger is my favorite game and Steins;Gate is a masterpiece of animation.
 </ul>
 
