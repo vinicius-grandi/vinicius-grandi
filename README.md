@@ -1,6 +1,6 @@
 ### Hello Everyone! 👋
 ![](https://komarev.com/ghpvc/?username=vinicius-grandi)
-- 🌱 I’m currently learning of backend, more specifically about nodeJS, Express, SQL and noSQL
+- 🌱 I’m currently learning about backend, more specifically nodeJS, Express, SQL and noSQL
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vinicius-grandi/)
 
 <h2>Hobbies</h2>
