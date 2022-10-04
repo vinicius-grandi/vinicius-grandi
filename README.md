@@ -8,5 +8,3 @@
   <li>In my free time I like playing video games and watch animes
   <li> Chrono Trigger is my favorite game and Steins;Gate is a masterpiece of animation.
 </ul>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-grandi&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
